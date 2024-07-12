@@ -10,6 +10,8 @@ Una aplicación de Streamlit para descargar videos de YouTube utilizando `yt-dlp
 - Combina automáticamente audio y video si es necesario.
 - Interfaz fácil de usar construida con Streamlit.
 
+![Descarga](img2.png)
+
 ## Requisitos
 
 - Python 3.6+
